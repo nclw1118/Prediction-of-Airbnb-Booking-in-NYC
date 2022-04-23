@@ -1,2 +1,2 @@
 # Prediction-of-Airbnb-Booking-in-NYC
-Project Proposal
+A project proposal I did with a great team on my first Data Science class.
